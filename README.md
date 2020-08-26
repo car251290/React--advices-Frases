@@ -9,6 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 I learn how to build a simple Web and display it in React.js 
 the code is simple and I get a response for the API where in this case is a weather API, in the process I am using the knowledge in React.
 
+# React documentation
+Try React
+React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
+
 
 ## Available Scripts
 
