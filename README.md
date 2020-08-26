@@ -4,6 +4,12 @@ The advices are for an API, to get some advices and display it in a web page usi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Using JavaScript 
+
+I learn how to build a simple Web and display it in React.js 
+the code is simple and I get a response for the API where in this case is a weather API, in the process I am using the knowledge in React.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
