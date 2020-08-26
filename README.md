@@ -13,6 +13,11 @@ the code is simple and I get a response for the API where in this case is a weat
 Try React
 React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
 
+## Add React to website
+Add React in One Minute
+In this section, we will show how to add a React component to an existing HTML page. You can follow along with your own website, or create an empty HTML file to practice.
+There will be no complicated tools or install requirements — to complete this section, you only need an internet connection, and a minute of your time.
+
 
 ## Available Scripts
 
