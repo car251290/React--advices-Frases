@@ -20,18 +20,8 @@ There will be no complicated tools or install requirements — to complete this 
 # JSX
 Add JSX to a Project
 Adding JSX to a project doesn’t require complicated tools like a bundler or a development server. Essentially, adding JSX is a lot like adding a CSS preprocessor. The only requirement is to have Node.js installed on your computer.
+## Card
+The Card react for the display of the project one of my first time using Component Card to make it, in the display Text.
 
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 
