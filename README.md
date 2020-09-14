@@ -23,5 +23,14 @@ Adding JSX to a project doesn’t require complicated tools like a bundler or a 
 ## Card
 The Card react for the display of the project one of my first time using Component Card to make it, in the display Text.
 
+## Updating the code to Hooks 
+Basic Hooks
+useState
+const [advice, setAdvice] = useState([]);
+simple understanding how to get the real Hooks work, I update this code with Hooks
+Returns a stateful value, and a function to update it.
+During the initial render, the returned state (state) is the same as the value passed as the first argument (initialState).
+The setState function is used to update the state. It accepts a new state value and enqueues a re-render of the component.
+
 
 
