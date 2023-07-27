@@ -4,10 +4,12 @@ The advices are for an API, to get some advices and display it in a web page usi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
+ <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
 # Using JavaScript 
 
 I learn how to build a simple Web and display it in React.js 
-the code is simple and I get a response for the API where in this case is a weather API, in the process I am using the knowledge in React.
+the code is simple and I get a response for the API which in this case is a weather API, in the process I am using the knowledge in React.
 
 # React documentation
 Try React
