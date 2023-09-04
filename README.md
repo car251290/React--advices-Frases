@@ -1,11 +1,11 @@
 ## The Adiveces Project is a simple small project
 
 The advices are for an API, to get some advices and display it in a web page using React I code in Javascript,However this app has more CSS and HTML that logic in my code because It only and Array for the display and a button that help past the advices or skip them, it a great app for start coding in React and practice.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
- <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
+<div>
+  <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
+</div>
+
 # Using JavaScript 
 
 I learn how to build a simple Web and display it in React.js 
